@@ -204,17 +204,6 @@ The app gracefully handles:
 
 ---
 
-
-
-## 🙏 Acknowledgements
-
-- [Groq](https://groq.com) — ultra-fast LPU inference
-- [OpenAI Whisper](https://github.com/openai/whisper) — speech recognition model
-- [streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc) — WebRTC integration
-- [Meta LLaMA](https://llama.meta.com) — open-source LLM
-
----
-
 <div align="center">
 
 Built with ❤️ by [Bhargav Pichikala](https://github.com/bhargav-pichikala)
